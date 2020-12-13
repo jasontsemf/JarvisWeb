@@ -1,0 +1,98 @@
+::-webkit-scrollbar-track {
+    background-color: #000000;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    display: grid;
+    height: 98vh;
+    grid-template-rows: auto 1fr auto;
+    background: rgb(11, 11, 11);
+    /* background: linear-gradient(0deg, rgba(11, 11, 11, 1) 0%, rgb(15, 32, 41) 100%); */
+    background: radial-gradient(circle, rgba(15, 32, 42, 1) 0%, rgba(11, 11, 11, 1) 100%);
+    color: #c2dde4;
+}
+
+header {
+    /* background: lightpink; */
+    padding: 2rem;
+}
+
+main {
+    overflow: auto;
+}
+
+footer {
+    /* background: wheat; */
+    padding: 2rem;
+    text-align: center;
+}
+
+.conversation {
+    flex: auto;
+    /* max-height: calc(100% - 60px); */
+    /* background: #2f323b; */
+    overflow: auto;
+}
+
+.item {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+    /* border: 1px black solid; */
+}
+
+.computer-speech-div {
+    background: #44505283;
+    padding: 20px;
+    /* padding: 10px 10px 0 10px; */
+    border-radius: 0 6px 6px 0;
+    max-width: 80%;
+    width: auto;
+    float: left;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .12), 0 2px 4px rgba(0, 0, 0, .24);
+    border: 1px solid #e3ebec83;
+}
+
+.my-speech-div {
+    display: flex;
+    background: #1f1f1f83;
+    padding: 20px;
+    /* padding: 10px 10px 0 10px; */
+    max-width: 80%;
+    width: auto;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .12), 0 2px 4px rgba(0, 0, 0, .24);
+    border-radius: 6px 0 0 6px;
+    float: right;
+    border: 1px solid #e3ebec83;
+}
+
+#my-button {
+    border: none;
+    border-radius: 50%;
+    background-color: #1f1f1f;
+    /* box-shadow: 0px -6px 10px rgba(255, 255, 255, 1), 0px 4px 15px rgba(0, 0, 0, 0.2); */
+    color: #Ffffff;
+    /* float: right; */
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    /* transition: box-shadow 200ms cubic-bezier(0.42, 0, 0.58, 1); */
+    outline: none;
+}
+
+#my-button:hover {
+    border: 1px solid #91dff2;
+}
+
+#mic {
+    color: #d3e6eb;
+    transition: 0.3s;
+}
+
+#mic-recording {
+    color: #ff7070;
+    transition: 0.3s;
+}

@@ -1,0 +1,70 @@
+0: SpeechSynthesisVoice {voiceURI: "Alex", name: "Alex", lang: "en-US", localService: true, default: true}
+1: SpeechSynthesisVoice {voiceURI: "Alice", name: "Alice", lang: "it-IT", localService: true, default: false}
+2: SpeechSynthesisVoice {voiceURI: "Alva", name: "Alva", lang: "sv-SE", localService: true, default: false}
+3: SpeechSynthesisVoice {voiceURI: "Amelie", name: "Amelie", lang: "fr-CA", localService: true, default: false}
+4: SpeechSynthesisVoice {voiceURI: "Anna", name: "Anna", lang: "de-DE", localService: true, default: false}
+5: SpeechSynthesisVoice {voiceURI: "Carmit", name: "Carmit", lang: "he-IL", localService: true, default: false}
+6: SpeechSynthesisVoice {voiceURI: "Damayanti", name: "Damayanti", lang: "id-ID", localService: true, default: false}
+7: SpeechSynthesisVoice {voiceURI: "Daniel", name: "Daniel", lang: "en-GB", localService: true, default: false}
+8: SpeechSynthesisVoice {voiceURI: "Diego", name: "Diego", lang: "es-AR", localService: true, default: false}
+9: SpeechSynthesisVoice {voiceURI: "Ellen", name: "Ellen", lang: "nl-BE", localService: true, default: false}
+10: SpeechSynthesisVoice {voiceURI: "Fiona", name: "Fiona", lang: "en", localService: true, default: false}
+11: SpeechSynthesisVoice {voiceURI: "Fred", name: "Fred", lang: "en-US", localService: true, default: false}
+12: SpeechSynthesisVoice {voiceURI: "Ioana", name: "Ioana", lang: "ro-RO", localService: true, default: false}
+13: SpeechSynthesisVoice {voiceURI: "Joana", name: "Joana", lang: "pt-PT", localService: true, default: false}
+14: SpeechSynthesisVoice {voiceURI: "Jorge", name: "Jorge", lang: "es-ES", localService: true, default: false}
+15: SpeechSynthesisVoice {voiceURI: "Juan", name: "Juan", lang: "es-MX", localService: true, default: false}
+16: SpeechSynthesisVoice {voiceURI: "Kanya", name: "Kanya", lang: "th-TH", localService: true, default: false}
+17: SpeechSynthesisVoice {voiceURI: "Karen", name: "Karen", lang: "en-AU", localService: true, default: false}
+18: SpeechSynthesisVoice {voiceURI: "Kyoko", name: "Kyoko", lang: "ja-JP", localService: true, default: false}
+19: SpeechSynthesisVoice {voiceURI: "Laura", name: "Laura", lang: "sk-SK", localService: true, default: false}
+20: SpeechSynthesisVoice {voiceURI: "Lekha", name: "Lekha", lang: "hi-IN", localService: true, default: false}
+21: SpeechSynthesisVoice {voiceURI: "Luca", name: "Luca", lang: "it-IT", localService: true, default: false}
+22: SpeechSynthesisVoice {voiceURI: "Luciana", name: "Luciana", lang: "pt-BR", localService: true, default: false}
+23: SpeechSynthesisVoice {voiceURI: "Maged", name: "Maged", lang: "ar-SA", localService: true, default: false}
+24: SpeechSynthesisVoice {voiceURI: "Mariska", name: "Mariska", lang: "hu-HU", localService: true, default: false}
+25: SpeechSynthesisVoice {voiceURI: "Mei-Jia", name: "Mei-Jia", lang: "zh-TW", localService: true, default: false}
+26: SpeechSynthesisVoice {voiceURI: "Melina", name: "Melina", lang: "el-GR", localService: true, default: false}
+27: SpeechSynthesisVoice {voiceURI: "Milena", name: "Milena", lang: "ru-RU", localService: true, default: false}
+28: SpeechSynthesisVoice {voiceURI: "Moira", name: "Moira", lang: "en-IE", localService: true, default: false}
+29: SpeechSynthesisVoice {voiceURI: "Monica", name: "Monica", lang: "es-ES", localService: true, default: false}
+30: SpeechSynthesisVoice {voiceURI: "Nora", name: "Nora", lang: "nb-NO", localService: true, default: false}
+31: SpeechSynthesisVoice {voiceURI: "Paulina", name: "Paulina", lang: "es-MX", localService: true, default: false}
+32: SpeechSynthesisVoice {voiceURI: "Samantha", name: "Samantha", lang: "en-US", localService: true, default: false}
+33: SpeechSynthesisVoice {voiceURI: "Sara", name: "Sara", lang: "da-DK", localService: true, default: false}
+34: SpeechSynthesisVoice {voiceURI: "Satu", name: "Satu", lang: "fi-FI", localService: true, default: false}
+35: SpeechSynthesisVoice {voiceURI: "Sin-ji", name: "Sin-ji", lang: "zh-HK", localService: true, default: false}
+36: SpeechSynthesisVoice {voiceURI: "Tessa", name: "Tessa", lang: "en-ZA", localService: true, default: false}
+37: SpeechSynthesisVoice {voiceURI: "Thomas", name: "Thomas", lang: "fr-FR", localService: true, default: false}
+38: SpeechSynthesisVoice {voiceURI: "Ting-Ting", name: "Ting-Ting", lang: "zh-CN", localService: true, default: false}
+39: SpeechSynthesisVoice {voiceURI: "Veena", name: "Veena", lang: "en-IN", localService: true, default: false}
+40: SpeechSynthesisVoice {voiceURI: "Victoria", name: "Victoria", lang: "en-US", localService: true, default: false}
+41: SpeechSynthesisVoice {voiceURI: "Xander", name: "Xander", lang: "nl-NL", localService: true, default: false}
+42: SpeechSynthesisVoice {voiceURI: "Yelda", name: "Yelda", lang: "tr-TR", localService: true, default: false}
+43: SpeechSynthesisVoice {voiceURI: "Yuna", name: "Yuna", lang: "ko-KR", localService: true, default: false}
+44: SpeechSynthesisVoice {voiceURI: "Yuri", name: "Yuri", lang: "ru-RU", localService: true, default: false}
+45: SpeechSynthesisVoice {voiceURI: "Zosia", name: "Zosia", lang: "pl-PL", localService: true, default: false}
+46: SpeechSynthesisVoice {voiceURI: "Zuzana", name: "Zuzana", lang: "cs-CZ", localService: true, default: false}
+47: SpeechSynthesisVoice {voiceURI: "Google Deutsch", name: "Google Deutsch", lang: "de-DE", localService: false, default: false}
+48: SpeechSynthesisVoice {voiceURI: "Google US English", name: "Google US English", lang: "en-US", localService: false, default: false}
+49: SpeechSynthesisVoice {voiceURI: "Google UK English Female", name: "Google UK English Female", lang: "en-GB", localService: false, default: false}
+50: SpeechSynthesisVoice {voiceURI: "Google UK English Male", name: "Google UK English Male", lang: "en-GB", localService: false, default: false}
+51: SpeechSynthesisVoice {voiceURI: "Google español", name: "Google español", lang: "es-ES", localService: false, default: false}
+52: SpeechSynthesisVoice {voiceURI: "Google español de Estados Unidos", name: "Google español de Estados Unidos", lang: "es-US", localService: false, default: false}
+53: SpeechSynthesisVoice {voiceURI: "Google français", name: "Google français", lang: "fr-FR", localService: false, default: false}
+54: SpeechSynthesisVoice {voiceURI: "Google हिन्दी", name: "Google हिन्दी", lang: "hi-IN", localService: false, default: false}
+55: SpeechSynthesisVoice {voiceURI: "Google Bahasa Indonesia", name: "Google Bahasa Indonesia", lang: "id-ID", localService: false, default: false}
+56: SpeechSynthesisVoice {voiceURI: "Google italiano", name: "Google italiano", lang: "it-IT", localService: false, default: false}
+57: SpeechSynthesisVoice {voiceURI: "Google 日本語", name: "Google 日本語", lang: "ja-JP", localService: false, default: false}
+58: SpeechSynthesisVoice {voiceURI: "Google 한국의", name: "Google 한국의", lang: "ko-KR", localService: false, default: false}
+59: SpeechSynthesisVoice {voiceURI: "Google Nederlands", name: "Google Nederlands", lang: "nl-NL", localService: false, default: false}
+60: SpeechSynthesisVoice {voiceURI: "Google polski", name: "Google polski", lang: "pl-PL", localService: false, default: false}
+61: SpeechSynthesisVoice {voiceURI: "Google português do Brasil", name: "Google português do Brasil", lang: "pt-BR", localService: false, default: false}
+62: SpeechSynthesisVoice {voiceURI: "Google русский", name: "Google русский", lang: "ru-RU", localService: false, default: false}
+63: SpeechSynthesisVoice {voiceURI: "Google 普通话（中国大陆）", name: "Google 普通话（中国大陆）", lang: "zh-CN", localService: false, default: false}
+64: SpeechSynthesisVoice {voiceURI: "Google 粤語（香港）", name: "Google 粤語（香港）", lang: "zh-HK", localService: false, default: false}
+65: SpeechSynthesisVoice {voiceURI: "Google 國語（臺灣）", name: "Google 國語（臺灣）", lang: "zh-TW", localService: false, default: false}
+length: 66
+__proto__: Array(0)
+﻿
+​
