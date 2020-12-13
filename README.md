@@ -1,6 +1,6 @@
 # JARVIS Web
 
-![jarivs web](doc/Screen%20Shot%202020-12-13%20at%2011.01.16%20AM.png)
+![jarivs web](doc/jarvis.png)
 
 Video Demo on [YouTube](https://youtu.be/DjilS2LzHyY)
 
@@ -187,7 +187,11 @@ app.get("/image/:phrase", async (req, res) => {
 
 ## Harsh Lesson
 
+![Suspended](doc/suspended.png)
+
 Please, never ever upload your authentication files or API key to a public environment, like GitHub. What I experienced at the very last minute was my `Google Cloud Project` got suspended, as possibly some hacker exploited my `service-account.json` file and used it for bitcoin mining. Therefore Google shutdown my project and I have no access to the original project anymore. I had to copy all the `DialogFlow` intents line by line manually.
+
+![noaccess](doc/noaccess.png)
 
 So the rule of thumb is, start the `.gitignore` file right away whenever you creat authentication files in your working folder. If it is an API key, be very careful to delete that in the code and replace that with your corresponding `process.env.Something` variable name.
 
